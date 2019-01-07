@@ -1,8 +1,8 @@
 # vdot0x23's Hugo Simple Theme
 
-Forked from https://github.com/Xzya/simple-hugo-theme with the following tweaks:
+Forked from https://github.com/Xzya/simple-hugo-theme with tweaks such as these:
 - Font color changed from #444 to #454545 (credit to https://thebestmotherfucking.website/)
-- Font size in footer changed from 18 to 12
+- Font size changes
 
 
 ## Configuration
