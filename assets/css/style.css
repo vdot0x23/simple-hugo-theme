@@ -42,3 +42,7 @@ div.footer {
     text-align: center;
     font-size: 12px;
 }
+
+div.post-meta {
+    font-size: 14px;
+}
