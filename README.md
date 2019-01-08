@@ -1,4 +1,4 @@
-# vdot0x23's Hugo Simple Theme
+# Hugo Simple Theme vdot0x23
 
 Forked from https://github.com/Xzya/simple-hugo-theme with tweaks such as these:
 - Some suggestions from https://thebestmotherfucking.website/
