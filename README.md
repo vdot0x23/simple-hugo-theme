@@ -4,6 +4,7 @@ Forked from https://github.com/Xzya/simple-hugo-theme with tweaks such as these:
 - Some suggestions from https://thebestmotherfucking.website/
 - Font size changes
 - Removal of `post_meta.html` from index in lists
+- Head title changes
 
 
 ## Configuration
