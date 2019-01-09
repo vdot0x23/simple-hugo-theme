@@ -5,6 +5,7 @@ Forked from https://github.com/Xzya/simple-hugo-theme with tweaks such as these:
 - Font size changes
 - Removal of `post_meta.html` from index in lists
 - Head title changes
+- Hardcoded :( Home button
 
 ## Menu
 
